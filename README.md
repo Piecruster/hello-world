@@ -1,2 +1,2 @@
 # hello-world
-sample
+The quick brown fox wasn't a fox after all.
